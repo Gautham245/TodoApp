@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="alert">Alert Dialog</string>
+    <string name="do_u_want_delete">Do want to delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
